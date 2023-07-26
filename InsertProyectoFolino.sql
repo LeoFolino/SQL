@@ -290,18 +290,18 @@ INSERT INTO pago (fecha_pago, monto, pedido_ID, metodo_ID) VALUES
 	('2023-07-24', 2500000, 15, 1);
 
 INSERT INTO valoracion (producto_ID, cliente_ID, calificacion, comentario) VALUES
-(1, 1, 4, 'Rendimiento potente, ideal para gaming..'),
-(42, 2, 3, 'Buena relación calidad-precio.'),
-(15, 3, 5, 'Excelente rendimiento y diseño.'),
-(26, 4, 4, 'Pantalla curva inmersiva, buena calidad de imagen.'),
-(41, 5, 3, 'Adecuada para gaming en calidad media.'),
-(53, 6, 5, 'Increíble experiencia de juego, gráficos asombrosos.'),
-(31, 7, 4, 'Ligero y preciso, ideal para juegos.'),
-(17, 8, 5, 'Potente y versátil, perfecto para creatividad.'),
-(38, 9, 5, 'Poderoso para multitarea y gaming.'),
-(34, 10, 3, 'Asequible y funcional para uso doméstico.'),
-(46, 11, 4, 'Rapidez en tareas exigentes.'),
-(50, 12, 5, 'Carga rápida del sistema, gran capacidad.'),
-(32, 13, 4, 'Diseño ergonómico y respuesta rápida.'),
-(10, 14, 4, 'Transferencias de datos ágiles y fiables.'),
-(14, 15, 4, 'Portátil, liviana y de buen rendimiento.');
+	(1, 1, 4, 'Rendimiento potente, ideal para gaming..'),
+	(42, 2, 3, 'Buena relación calidad-precio.'),
+	(15, 3, 5, 'Excelente rendimiento y diseño.'),
+	(26, 4, 4, 'Pantalla curva inmersiva, buena calidad de imagen.'),
+	(41, 5, 3, 'Adecuada para gaming en calidad media.'),
+	(53, 6, 5, 'Increíble experiencia de juego, gráficos asombrosos.'),
+	(31, 7, 4, 'Ligero y preciso, ideal para juegos.'),
+	(17, 8, 5, 'Potente y versátil, perfecto para creatividad.'),
+	(38, 9, 5, 'Poderoso para multitarea y gaming.'),
+	(34, 10, 3, 'Asequible y funcional para uso doméstico.'),
+	(46, 11, 4, 'Rapidez en tareas exigentes.'),
+	(50, 12, 5, 'Carga rápida del sistema, gran capacidad.'),
+	(32, 13, 4, 'Diseño ergonómico y respuesta rápida.'),
+	(10, 14, 4, 'Transferencias de datos ágiles y fiables.'),
+	(14, 15, 4, 'Portátil, liviana y de buen rendimiento.');
