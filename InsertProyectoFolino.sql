@@ -2,10 +2,10 @@ USE neotec;
 
 INSERT INTO localidad (nombre) VALUES
 	('CABA'),
-	('La Matanza'),
+    ('La Matanza'),
     ('Luján'),
     ('San Fernando'),
-	('San Miguel'),
+    ('San Miguel'),
     ('La Plata'),
     ('Quilmes'),
     ('Tigre'),
@@ -18,7 +18,7 @@ INSERT INTO localidad (nombre) VALUES
     ('Lanús');
 
 INSERT INTO direccion (calle, altura, localidad_ID) VALUES
-    ('Avenida Santa Fe', 1324, 2),
+	('Avenida Santa Fe', 1324, 2),
     ('San Juan', 6342, 1),
     ('Avenida Hipólito Yrigoyen', 6333, 12),
     ('Laprida', 1234, 7),
@@ -33,10 +33,10 @@ INSERT INTO direccion (calle, altura, localidad_ID) VALUES
     ('Moreno', 546, 13),
     ('Roca', 2423, 15),
     ('Rivadavia', 6743, 2),
-	('Larralde', 4578, 6),
-	('Santa Rosa', 1344, 8),
-	('Lemans', 1343, 3),
-	('Talcahuano', 5324, 2),
+    ('Larralde', 4578, 6),
+    ('Santa Rosa', 1344, 8),
+    ('Lemans', 1343, 3),
+    ('Talcahuano', 5324, 2),
     ('Peron', 5216, 2),
     ('Cerati', 7534, 7),
     ('Garcia Merou', 3462, 7),
@@ -46,8 +46,8 @@ INSERT INTO direccion (calle, altura, localidad_ID) VALUES
     ('Crisol', 2455, 14),
     ('El charrua', 534, 2),
     ('Murguiondo', 1644, 8),
-	('Pueyrredón', 4567, 3),
-	('Esmeralda', 6789, 2),
+    ('Pueyrredón', 4567, 3),
+    ('Esmeralda', 6789, 2),
     ('Avenida Las Heras', 1234, 7),
     ('Montevideo', 5678, 7),
     ('Avenida Santa Cruz', 9012, 8),
