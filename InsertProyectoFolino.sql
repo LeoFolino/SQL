@@ -198,6 +198,7 @@ INSERT INTO producto (nombre, descripcion, precio, stock, fecha_actualizacion, p
     ('Disco SSD Samsunglocalidadproducto 500GB', 'Disco de estado sólido de 500GB con 4500mb/s de lectura y escritura.', 80000, 30, '2023-07-21', 3, 6, 4),
     ('Laptop ASUS ZenBook 14', 'Laptop ultradelgada con pantalla de 14 pulgadas y diseño elegante. Porta Ryzen 7 6800 y NVIDIA RTX 2060', 1300000, 8, '2023-07-23', 15, 4, 6),
     ('Laptop ASUS TUF Gaming A15', 'Laptop para gaming con pantalla de 15.6 pulgadas, con procesador AMD Ryzen 9 y NVIDIA RTX 3080.', 2500000, 10, '2023-07-23', 15, 4, 6),
+    ('Laptop ASUS TUF Gaming A15', 'Laptop para gaming con pantalla de 15.6 pulgadas, con procesador AMD Ryzen 9 y NVIDIA RTX 3080.', 2500000, 10, '2023-07-23', 15, 4, 6),
     ('Laptop ASUS ROG Zephyrus', 'Laptop para gaming con pantalla de 17 pulgadas y alto rendimiento. Porta Intel i7 12900 y RTX 2060', 1500000, 5, '2023-07-01', 15, 4, 6),
     ('iPad Air 11 pulgadas', 'Tablet de gama media con pantalla Retina y soporte para Apple Pencil.', 450000, 15, '2023-07-14', 6, 11, 7),
 	('iPad Pro 13 pulgadas', 'Tablet de gama alta con pantalla Retina y soporte para Apple Pencil.', 850000, 15, '2023-07-14', 6, 11, 7),
