@@ -111,7 +111,6 @@ CREATE TABLE venta (
     empleado_ID INT NOT NULL,
     PRIMARY KEY (venta_ID),
     UNIQUE (venta_ID),
-    UNIQUE (cliente_ID),
     FOREIGN KEY (cliente_ID) REFERENCES cliente(cliente_ID),
     FOREIGN KEY (empleado_ID) REFERENCES empleado(empleado_ID)
 );
